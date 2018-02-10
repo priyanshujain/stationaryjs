@@ -1,0 +1,23 @@
+{
+  "name": "stationaryjs",
+  "version": "0.0.0",
+  "description": "Bunch of static data needed in apps like time-zones list, states list, country codes etc.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshujain/stationaryjs.git"
+  },
+  "keywords": [
+    "countries",
+    "states",
+    "timeszones",
+    "country",
+    "codes"
+  ],
+  "author": "Priyanshu Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/priyanshujain/stationaryjs/issues"
+  },
+  "homepage": "https://github.com/priyanshujain/stationaryjs#readme"
+}
